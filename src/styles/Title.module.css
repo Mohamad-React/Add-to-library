@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content : center;
+    align-items : center;
+    flex-direction: column;
+    background-color: rgb(102, 189, 189);
+    padding: 30px;
+
+}
+
+.div{
+    display: flex;
+}
+
